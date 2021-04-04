@@ -1,1 +1,5 @@
 config.py
+__pycache__/
+myproject/__pycache__/
+posts/__pycache__/
+posts/migrations/__pycache__/
